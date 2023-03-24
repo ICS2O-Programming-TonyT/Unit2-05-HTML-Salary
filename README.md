@@ -6,4 +6,4 @@
 [![Run on Repl.it](https://repl.it/badge/github/ICS2O-Programming-TonyT/Unit2-05-HTML-Salary)](https://repl.it/github/ICS2O-Programming-TonyT/Unit2-05-HTML-Salary)
 
 
-This site can be found at: [https://ICS2O-Programming-TonyT.github.io/Unit2-05-HTML-Salary](https://ICS2O-Programming-TonyT.github.io/<REPOSITORY>)
+This site can be found at: [https://ICS2O-Programming-TonyT.github.io/Unit2-05-HTML-Salary](https://ICS2O-Programming-TonyT.github.io/Unit2-05-HTML-Salary)
